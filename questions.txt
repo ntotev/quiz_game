@@ -1,0 +1,10 @@
+q:what is the biggest aircraft
+a: the Antoniov 
+q:when was the first motorized aircraft flight
+a:1902
+q:who invented the motorized aircraft
+a:the Wright brothers
+q:how do bats see in the dark
+a:echolocation
+q:are you a nerd
+a:depends
